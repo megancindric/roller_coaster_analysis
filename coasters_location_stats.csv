@@ -1,0 +1,361 @@
+Rank,Name,Park,Location,Supplier,Year Built,Points,Year of Rank,City,State,Country,Zip_Code,material_type,seating_type,speed,height,length,num_inversions,manufacturer,status
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,1204,2013,Sandusky,Ohio,United States,44870,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,status.operating
+2,Bizarro,Six Flags New England,"Agawam, Mass.",Intamin,2000,1011,2013,Agawam,Massachusetts,United States,01001,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,status.operating
+3,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,598,2013,Hassloch,Rhineland-Palatinate,Germany,67454,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,status.operating
+4,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,596,2013,Jackson,New Jersey,United States,08527,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,status.operating
+5,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,542,2013,Williamsburg,Virginia,United States,23185,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,status.operating
+6,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,512,2013,Arlington,Texas,United States,76011,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,status.operating
+7,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,494,2013,Austell,Georgia,United States,30168,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,status.operating
+8,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,478,2013,Charlotte,North Carolina,United States,28273,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,status.operating
+9,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,416,2013,Sandusky,Ohio,United States,44870,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,status.operating
+10,Intimidator 305,Kings Dominion,"Doswell, Va.",Intamin,2010,412,2013,Doswell,Virginia,United States,23047,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,status.operating
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,1139,2014,Sandusky,Ohio,United States,44870,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,status.operating
+2,Bizarro,Six Flags New England,"Agawam, Mass.",Intamin,2000,1049,2014,Agawam,Massachusetts,United States,01001,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,status.operating
+3,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,764,2014,Hassloch,Rhineland-Palatinate,Germany,67454,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,status.operating
+4,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,579,2014,Mason,Ohio,United States,45040,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,status.operating
+5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,563,2014,Jackson,New Jersey,United States,08527,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,status.operating
+6,Leviathan,Canada’s Wonderland,"Vaughan, Ont., Canada",B&M,2012,500,2014,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,status.operating
+7,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,484,2014,Williamsburg,Virginia,United States,23185,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,status.operating
+8,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,465,2014,Arlington,Texas,United States,76011,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,status.operating
+9,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,422,2014,Austell,Georgia,United States,30168,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,status.operating
+10,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,387,2014,Charlotte,North Carolina,United States,28273,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,status.operating
+1,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,1205,2015,Sandusky,Ohio,United States,44870,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,status.operating
+2,Bizarro,Six Flags New England,"Agawam, Mass.",Intamin,2000,929,2015,Agawam,Massachusetts,United States,01001,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,status.operating
+3,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,714,2015,Hassloch,Rhineland-Palatinate,Germany,67454,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,status.operating
+4,Fury 325,Carowinds,"Charlotte, N.C.",B&M,2015,671,2015,Charlotte,North Carolina,United States,28273,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,status.operating
+5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,650,2015,Jackson,New Jersey,United States,08527,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,status.operating
+6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,597,2015,Williamsburg,Virginia,United States,23185,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,status.operating
+7,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,499,2015,Charlotte,North Carolina,United States,28273,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,status.operating
+8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,491,2015,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,status.operating
+9,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,462,2015,Stoke-on-Trent,England,United Kingdom,ST10 4DB,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,status.operating
+10,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,450,2015,Arlington,Texas,United States,76011,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,status.operating
+1,Fury 325,Carowinds,"Charlotte, N.C.",B&M,2015,1126,2016,Charlotte,North Carolina,United States,28273,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,status.operating
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,1122,2016,Sandusky,Ohio,United States,44870,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,status.operating
+3,Superman The Ride,Six Flags New England,"Agawam, Mass.",Intamin,2000,698,2016,Agawam,Massachusetts,United States,01001,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,status.operating
+4,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,613,2016,Hassloch,Rhineland-Palatinate,Germany,67454,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,status.operating
+5,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,454,2016,Jackson,New Jersey,United States,08527,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,status.operating
+6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,397,2016,Williamsburg,Virginia,United States,23185,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,status.operating
+7,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,393,2016,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,status.operating
+8,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,350,2016,Charlotte,North Carolina,United States,28273,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,status.operating
+9,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,330,2016,Mason,Ohio,United States,45040,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,status.operating
+10,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",Morgan,2001,329,2016,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,status.operating
+11,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,311,2016,Stoke-on-Trent,England,United Kingdom,ST10 4DB,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,status.operating
+12,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,306,2016,Sandusky,Ohio,United States,44870,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,status.operating
+13,Banshee,Kings Island,"Mason, Ohio",B&M,2014,286,2016,Mason,Ohio,United States,45040,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,status.operating
+14,Blue Fire,Europa-Park,"Rust, Germany",Mack,2006,283,2016,Rust,Baden-Württemberg,Germany,77977,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,status.operating
+15,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,279,2016,Sandusky,Ohio,United States,44870,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,status.operating
+16,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",RMC,2011,272,2016,Arlington,Texas,United States,76011,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,status.operating
+17,Intimidator 305,Kings Dominion,"Doswell, Va.",Intamin,2010,268,2016,Doswell,Virginia,United States,23047,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,status.operating
+18,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",RMC,2015,265,2016,Agawam,Massachusetts,United States,01001,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,status.operating
+19,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,258,2016,Sandusky,Ohio,United States,44870,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,status.operating
+20,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,255,2016,Austell,Georgia,United States,30168,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,status.operating
+21,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",RMC,2013,254,2016,San Antonio,Texas,United States,78257,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,status.operating
+22,Montu,Busch Gardens Tampa,"Tampa, Fla.",B&M,1996,203,2016,Tampa,Florida,United States,33612,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,status.operating
+23,X2,Six Flags Magic Mountain,"Valencia, Calif.",Arrow,2002,202,2016,Valencia,California,United States,91355,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,status.operating
+24,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,198,2016,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,status.operating
+25,Black Mamba,Phantasialand,"Brühl, Germany",B&M,2006,178,2016,Brühl,North Rhine-Westphalia,Germany,50321,Steel,Inverted,80.0,26.0,,4.0,B&M,status.operating
+26,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",RMC,2015,175,2016,Valencia,California,United States,91355,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,status.operating
+27,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",Schwarzkopf,1978,168,2016,Austell,Georgia,United States,30168,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,status.operating
+28,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",RMC,2016,166,2016,Louisville,Kentucky,United States,40209,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,status.operating
+29,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,165,2016,Gothenburg,Västra Götalands,Sweden,402 22,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,status.operating
+30,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1997,144,2016,Williamsburg,Virginia,United States,23185,Steel,Inverted,108.0,60.0,,6.0,B&M,status.operating
+31,Goliath,La Ronde,"Montreal, Quebec, Canada",B&M,2006,128,2016,Montreal,Quebec,Canada,H3C6A3,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,status.operating
+32,Raging Bull,Six Flags Great America,"Gurnee, Ill.",B&M,1999,122,2016,Gurnee,Illinois,United States,60031,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,status.operating
+32,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,122,2016,Brühl,North Rhine-Westphalia,Germany,50321,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,status.operating
+34,Thunderbird,Holiday World,"Santa Claus, Ind.",B&M,2015,113,2016,Santa Claus,Indiana,United States,47579,Steel,Wing,100.0,43.0,925.0,4.0,B&M,status.operating
+35,Mako,SeaWorld Orlando,"Orlando, Fla.",B&M,2016,110,2016,Orlando,Florida,United States,32821,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,status.operating
+36,Wild Eagle,Dollywood,"Pigeon Forge, Tenn.",B&M,2012,107,2016,Pigeon Forge,Tennessee,United States,37863,Steel,Wing,98.0,64.0,953.0,4.0,B&M,status.operating
+37,Steel Force,Dorney Park,"Allentown, Pa.",Morgan,1997,105,2016,Allentown,Pennsylvania,United States,18104,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,status.operating
+38,Lisebergbanan,Liseberg,"Gothenburg, Sweden",Schwarz,1987,99,2016,Gothenburg,Västra Götalands,Sweden,402 22,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,status.operating
+39,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",Intamin,2011,97,2016,Tampa,Florida,United States,33612,,,,,,,,
+42,Euro-Mir,Europa-Park,"Rust, Germany",Mack,1997,94,2016,Rust,Baden-Württemberg,Germany,77977,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,status.operating
+42,Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",RMC,2014,94,2016,Mexico City,Distrito Federal,Mexico,14200,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,status.operating
+42,Cannibal,Lagoon,"Farmington, Utah",Lagoon,2015,92,2016,Farmington,Utah,United States,84025,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,status.operating
+42,Kumba,Busch Gardens Tampa,"Tampa, Fla.",B&M,1993,92,2016,Tampa,Florida,United States,33612,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,status.operating
+44,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",Chance,2014,90,2016,Louisville,Kentucky,United States,40209,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,status.operating
+45,Whizzer,Six Flags Great America,"Gurnee, Ill.",Schwarzkopf,1976,85,2016,Gurnee,Illinois,United States,60031,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,status.operating
+46,Olympia Looping,Weiner Prater,"Vienna, Austria",Schwarzkopf,1989,81,2016,Vienna,Vienna,Austria,1020,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,status.operating
+47,Raptor,Cedar Point,"Sandusky, Ohio",B&M,1994,80,2016,Sandusky,Ohio,United States,44870,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,status.operating
+48,Bizarro,Six Flags Great Adventure,"Jackson, N.J.",B&M,1999,74,2016,Jackson,New Jersey,United States,08527,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,status.operating
+49,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",Vekoma,2006,72,2016,Lake Buena Vista,Florida,United States,32830,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,status.operating
+49,GateKeeper,Cedar Point,"Sandusky, Ohio",B&M,2013,72,2016,Sandusky,Ohio,United States,44870,Steel,Wing,108.0,52.0,1269.0,6.0,B&M,status.operating
+1,Fury 325,Carowinds,"Charlotte, N.C.",B&M,2015,1354,2017,Charlotte,North Carolina,United States,28273,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,status.operating
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,1129,2017,Sandusky,Ohio,United States,44870,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,status.operating
+3,Superman The Ride,Six Flags New England,"Agawam, Mass.",Intamin,2000,705,2017,Agawam,Massachusetts,United States,01001,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,status.operating
+4,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",RMC,2013,657,2017,San Antonio,Texas,United States,78257,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,status.operating
+5,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,575,2017,Hassloch,Rhineland-Palatinate,Germany,67454,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,status.operating
+6,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,481,2017,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,status.operating
+7,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,442,2017,Jackson,New Jersey,United States,08527,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,status.operating
+8,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,381,2017,Mason,Ohio,United States,45040,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,status.operating
+9,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",RMC,2011,379,2017,Arlington,Texas,United States,76011,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,status.operating
+10,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,375,2017,Sandusky,Ohio,United States,44870,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,status.operating
+11,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,374,2017,Williamsburg,Virginia,United States,23185,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,status.operating
+12,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",Morgan,2001,344,2017,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,status.operating
+13,Intimidator 305,Kings Dominion,"Doswell, Va.",Intamin,2010,330,2017,Doswell,Virginia,United States,23047,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,status.operating
+14,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,291,2017,Austell,Georgia,United States,30168,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,status.operating
+14,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",RMC,2015,291,2017,Agawam,Massachusetts,United States,01001,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,status.operating
+16,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",RMC,2015,284,2017,Valencia,California,United States,91355,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,status.operating
+17,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,276,2017,Sandusky,Ohio,United States,44870,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,status.operating
+18,Blue Fire,Europa-Park,"Rust, Germany",Mack,2006,272,2017,Rust,Baden-Württemberg,Germany,77977,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,status.operating
+19,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,261,2017,Charlotte,North Carolina,United States,28273,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,status.operating
+20,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,254,2017,Stoke-on-Trent,England,United Kingdom,ST10 4DB,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,status.operating
+21,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,253,2017,Brühl,North Rhine-Westphalia,Germany,50321,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,status.operating
+22,Banshee,Kings Island,"Mason, Ohio",B&M,2014,244,2017,Mason,Ohio,United States,45040,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,status.operating
+23,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,238,2017,Sandusky,Ohio,United States,44870,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,status.operating
+24,Skyrush,Hersheypark,"Hershey, Pa.",Intamin,2012,235,2017,Hershey,Pennsylvania,United States,17033,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,status.operating
+25,X2,Six Flags Magic Mountain,"Valencia, Calif.",Arrow,2002,217,2017,Valencia,California,United States,91355,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,status.operating
+26,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",Schwarzkopf,1978,209,2017,Austell,Georgia,United States,30168,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,status.operating
+27,Montu,Busch Gardens Tampa,"Tampa, Fla.",B&M,1996,200,2017,Tampa,Florida,United States,33612,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,status.operating
+28,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,184,2017,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,status.operating
+29,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",Intamin,2011,181,2017,Tampa,Florida,United States,33612,,,,,,,,
+29,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,181,2017,Gothenburg,Västra Götalands,Sweden,402 22,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,status.operating
+31,Mako,SeaWorld Orlando,"Orlando, Fla.",B&M,2016,171,2017,Orlando,Florida,United States,32821,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,status.operating
+32,Cannibal,Lagoon,"Farmington, Utah",Lagoon,2015,163,2017,Farmington,Utah,United States,84025,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,status.operating
+33,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",RMC,2016,135,2017,Louisville,Kentucky,United States,40209,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,status.operating
+34,Raging Bull,Six Flags Great America,"Gurnee, Ill.",B&M,1999,113,2017,Gurnee,Illinois,United States,60031,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,status.operating
+35,Black Mamba,Phantasialand,"Brühl, Germany",B&M,2006,109,2017,Brühl,North Rhine-Westphalia,Germany,50321,Steel,Inverted,80.0,26.0,,4.0,B&M,status.operating
+36,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1997,104,2017,Williamsburg,Virginia,United States,23185,Steel,Inverted,108.0,60.0,,6.0,B&M,status.operating
+37,Medusa Steel Coaster,Six Flags Mexico,"Mexico City, Mexico",RMC,2014,98,2017,Mexico City,Distrito Federal,Mexico,14200,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,status.operating
+38,Quimera,La Feria,"Mexico City, Mexico",Schwarzkopf,2007,93,2017,Mexico City,Distrito Federal,Mexico,72320,Steel,Sit Down,85.0,34.0,1050.0,3.0,Schwarzkopf,status.operating
+39,Thunderbird,Holiday World,"Santa Claus, Ind.",B&M,2015,91,2017,Santa Claus,Indiana,United States,47579,Steel,Wing,100.0,43.0,925.0,4.0,B&M,status.operating
+40,Lisebergbanan,Liseberg,"Gothenburg, Sweden",Schwarz,1987,84,2017,Gothenburg,Västra Götalands,Sweden,402 22,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,status.operating
+41,Goliath,La Ronde,"Montreal, Quebec, Canada",B&M,2006,78,2017,Montreal,Quebec,Canada,H3C6A3,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,status.operating
+41,Kumba,Busch Gardens Tampa,"Tampa, Fla.",B&M,1993,78,2017,Tampa,Florida,United States,33612,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,status.operating
+41,Lightning Run,Kentucky Kingdom,"Louisville, Ky.",Chance,2014,78,2017,Louisville,Kentucky,United States,40209,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,status.operating
+44,Steel Force,Dorney Park,"Allentown, Pa.",Morgan,1997,76,2017,Allentown,Pennsylvania,United States,18104,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,status.operating
+45,Euro-Mir,Europa-Park,"Rust, Germany",Mack,1997,72,2017,Rust,Baden-Württemberg,Germany,77977,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,status.operating
+46,Shock Wave,Six Flags Over Texas,"Arlington, Texas",Schwarzkopf,1978,68,2017,Arlington,Texas,United States,76011,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,status.operating
+46,Whizzer,Six Flags Great America,"Gurnee, Ill.",Schwarzkopf,1976,68,2017,Gurnee,Illinois,United States,60031,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,status.operating
+48,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,2007,62,2017,Williamsburg,Virginia,United States,23185,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,status.operating
+49,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",Vekoma,2006,61,2017,Lake Buena Vista,Florida,United States,32830,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,status.operating
+50,Full Throttle,Six Flags Magic Mountain,"Valencia, Calif.",Premier,2013,59,2017,Valencia,California,United States,91355,Steel,Sit Down,112.0,48.0,670.0,2.0,Premier Rides,status.operating
+1,Fury 325,Carowinds,"Charlotte, N.C.",B&M,2015,1222,2018,Charlotte,North Carolina,United States,28273,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,status.operating
+2,Millennium Force,Cedar Point,"Sandusky, Ohio",Intamin,2000,1156,2018,Sandusky,Ohio,United States,44870,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,status.operating
+3,Steel Vengeance,Cedar Point,"Sandusky, Ohio",Rocky Mountain,2018,829,2018,Sandusky,Ohio,United States,44870,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,status.operating
+4,Expedition GeForce,Holiday Park,"Hassloch, Germany",Intamin,2001,540,2018,Hassloch,Rhineland-Palatinate,Germany,67454,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,status.operating
+5,Superman: The Ride,Six Flags New England,"Agawam, Mass.",Intamin,2000,535,2018,Agawam,Massachusetts,United States,01001,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,status.operating
+6,Apollo’s Chariot,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1999,522,2018,Williamsburg,Virginia,United States,23185,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,status.operating
+7,Iron Rattler,Six Flags Fiesta Texas,"San Antonio, Texas",Rocky Mountain,2013,483,2018,San Antonio,Texas,United States,78257,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,status.operating
+8,Leviathan,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2012,410,2018,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,status.operating
+9,Maverick,Cedar Point,"Sandusky, Ohio",Intamin,2007,390,2018,Sandusky,Ohio,United States,44870,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,status.operating
+10,Diamondback,Kings Island,"Mason, Ohio",B&M,2009,347,2018,Mason,Ohio,United States,45040,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,status.operating
+11,Nitro,Six Flags Great Adventure,"Jackson, N.J.",B&M,2001,345,2018,Jackson,New Jersey,United States,08527,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,status.operating
+12,Intimidator 305,Kings Dominion,"Doswell, Va.",Intamin,2010,344,2018,Doswell,Virginia,United States,23047,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,status.operating
+13,Phantom’s Revenge,Kennywood,"West Mifflin, Pa.",Morgan/Arrow,2001,324,2018,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,status.operating
+14,Magnum XL-200,Cedar Point,"Sandusky, Ohio",Arrow,1989,300,2018,Sandusky,Ohio,United States,44870,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,status.operating
+15,Taron,Phantasialand,"Brühl, Germany",Intamin,2016,283,2018,Brühl,North Rhine-Westphalia,Germany,50321,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,status.operating
+16,Top Thrill Dragster,Cedar Point,"Sandusky, Ohio",Intamin,2003,278,2018,Sandusky,Ohio,United States,44870,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,status.operating
+17,Mako,SeaWorld Orlando,"Orlando, Fla.",B&M,2016,251,2018,Orlando,Florida,United States,32821,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,status.operating
+18,Time Traveler,Silver Dollar City,"Branson, Mo.",Mack,2018,248,2018,Branson,Missouri,United States,65616,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,status.operating
+19,Blue Fire,Europa-Park,"Rust, Germany",Mack,2009,244,2018,Rust,Baden-Württemberg,Germany,77977,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,status.operating
+20,Nemesis,Alton Towers,"Staffordshire, England",B&M,1994,238,2018,Stoke-on-Trent,England,United Kingdom,ST10 4DB,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,status.operating
+21,Helix,Liseberg,"Gothenburg, Sweden",Mack,2014,234,2018,Gothenburg,Västra Götalands,Sweden,402 22,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,status.operating
+22,Intimidator,Carowinds,"Charlotte, N.C.",B&M,2010,233,2018,Charlotte,North Carolina,United States,28273,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,status.operating
+23,New Texas Giant,Six Flags Over Texas,"Arlington, Texas",Rocky Mountain,2011,222,2018,Arlington,Texas,United States,76011,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,status.operating
+24,Twisted Colossus,Six Flags Magic Mountain,"Valencia, Calif.",Rocky Mountain,2015,212,2018,Valencia,California,United States,91355,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,status.operating
+25,Mind Bender,Six Flags Over Georgia,"Austell, Ga.",Schwarzkopf,1978,211,2018,Austell,Georgia,United States,30168,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,status.operating
+26,Goliath,Six Flags Over Georgia,"Austell, Ga.",B&M,2006,201,2018,Austell,Georgia,United States,30168,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,status.operating
+27,Behemoth,Canada’s Wonderland,"Vaughan, Ontario, Canada",B&M,2008,187,2018,Vaughan,Ontario,Canada,L6A 1S6,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,status.operating
+28,Montu,Busch Gardens Tampa,"Tampa, Fla.",B&M,1996,186,2018,Tampa,Florida,United States,33612,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,status.operating
+29,Banshee,Kings Island,"Mason, Ohio",B&M,2014,175,2018,Mason,Ohio,United States,45040,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,status.operating
+30,Skyrush,Hersheypark,"Hershey, Pa.",Intamin,2012,173,2018,Hershey,Pennsylvania,United States,17033,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,status.operating
+31,X2,Six Flags Magic Mountain,"Valencia, Calif.",Arrow,2001,162,2018,Valencia,California,United States,91355,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,status.operating
+32,Alpengeist,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,1997,160,2018,Williamsburg,Virginia,United States,23185,Steel,Inverted,108.0,60.0,,6.0,B&M,status.operating
+33,Wicked Cyclone,Six Flags New England,"Agawam, Mass.",Rocky Mountain,2015,158,2018,Agawam,Massachusetts,United States,01001,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,status.operating
+34,Black Mamba,Phantasialand,"Brühl, Germany",B&M,2006,137,2018,Brühl,North Rhine-Westphalia,Germany,50321,Steel,Inverted,80.0,26.0,,4.0,B&M,status.operating
+35,Cheetah Hunt,Busch Gardens Tampa,"Tampa, Fla.",Intamin,2011,132,2018,Tampa,Florida,United States,33612,,,,,,,,
+36,Verbolten,Busch Gardens Williamsburg,"Williamsburg, Va.",Zierer,2012,116,2018,Williamsburg,Virginia,United States,23185,Steel,Sit Down,85.0,,864.0,0.0,Zierer,status.operating
+37,Kumba,Busch Gardens Tampa,"Tampa, Fla.",B&M,1993,115,2018,Tampa,Florida,United States,33612,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,status.operating
+38,Twisted Timbers,Kings Dominion,"Doswell, Va.",Rocky Mountain,2018,109,2018,Doswell,Virginia,United States,23047,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,status.operating
+39,Jetline,Gröna Lund,"Stockholm, Sweden",Schwarzkopf,1988,99,2018,Stockholm,Stockholms,Sweden,115 21,Steel,Sit Down,90.0,32.0,800.0,0.0,Schwarzkopf,status.operating
+39,Superman Ride of Steel,Six Flags Great America,"Upper Marlsboro, Md.",Intamin,2000,99,2018,Gurnee,Illinois,United States,60031,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,status.operating
+41,Goliath,La Ronde,"Montreal, Quebec, Canada",B&M,2006,97,2018,Montreal,Quebec,Canada,H3C6A3,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,status.operating
+42,Lisebergbanan,Liseberg,"Gothemburg, Sweden",Schwarzkopf,1987,96,2018,Gothenburg,Västra Götalands,Sweden,402 22,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,status.operating
+43,Griffon,Busch Gardens Williamsburg,"Williamsburg, Va.",B&M,2007,93,2018,Williamsburg,Virginia,United States,23185,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,status.operating
+44,Cannibal,Lagoon,"Farmington, Utah",Lagoon,2015,92,2018,Farmington,Utah,United States,84025,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,status.operating
+45,Shambhala,PortAventura,"Salou, Spain",B&M,2012,89,2018,Tarragona,Catalonia,Spain,43840,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,status.operating
+46,Expedition Everest,Disney’s Animal Kingdom,"Orlando, Fla.",Vekoma,2006,82,2018,Lake Buena Vista,Florida,United States,32830,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,status.operating
+47,Storm Chaser,Kentucky Kingdom,"Louisville, Ky.",Rocky Mountain,2016,81,2018,Louisville,Kentucky,United States,40209,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,status.operating
+48,Raging Bull,Six Flags Great America,"Gurnee, Ill.",B&M,1999,78,2018,Gurnee,Illinois,United States,60031,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,status.operating
+49,Thunderbird,Holiday World,"Santa Claus, Ind.",B&M,2015,72,2018,Santa Claus,Indiana,United States,47579,Steel,Wing,100.0,43.0,925.0,4.0,B&M,status.operating
+50,Whizzer,Six Flags Great America,"Gurnee, Ill.",Schwarzkopf,1976,70,2018,Gurnee,Illinois,United States,60031,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,status.operating
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",CCI,2000,1333,2013,Bristol,Connecticut,United States,06010,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,status.operating
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2006,1302,2013,Jackson,New Jersey,United States,08527,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,status.operating
+3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",Dinn/PTC-Schmeck,1985,1088,2013,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,status.operating
+4,The Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,1086,2013,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,status.operating
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",GCII,2004,923,2013,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,status.operating
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,712,2013,Erie,Pennsylvania,United States,16505,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,status.operating
+7,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,599,2013,Branson,Missouri,United States,65616,Wooden,Sit Down,110.0,50.0,,2.0,RMC,status.operating
+8,The Beast,Kings Island,"Kings Mills, Ohio",KECO,1979,555,2013,Mason,Ohio,United States,45040,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,status.operating
+9,Lightning Racer,Hersheypark,"Hershey, Pa.",GCII,2000,364,2013,Hershey,Pennsylvania,United States,17033,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,status.operating
+10,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",CCI,1998,304,2013,Muskegon,Michigan,United States,49445,Steel,Sit Down,92.0,37.0,1641.0,0.0,CCI,status.operating
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",CCI,2000,1480,2014,Bristol,Connecticut,United States,06010,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,status.operating
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2006,1291,2014,Jackson,New Jersey,United States,08527,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,status.operating
+3,The Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,1129,2014,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,status.operating
+4,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",Dinn/PTC-Schmeck,1985,1036,2014,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,status.operating
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",GCII,2004,837,2014,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,status.operating
+6,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,719,2014,Erie,Pennsylvania,United States,16505,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,status.operating
+7,Gold Striker,California’s Great America,"Santa Clara, Calif.",GCII,2013,619,2014,Santa Clara,California,United States,95054,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,status.operating
+8,The Beast,Kings Island,"Mason, Ohio",KECO,1979,614,2014,Mason,Ohio,United States,45040,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,status.operating
+9,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,605,2014,Branson,Missouri,United States,65616,Wooden,Sit Down,110.0,50.0,,2.0,RMC,status.operating
+10,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,393,2014,Gothenburg,Västra Götalands,Sweden,402 22,Wooden,Sit Down,90.0,36.0,1070.0,0.0,Intamin,status.operating
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",CCI,2000,1625,2015,Bristol,Connecticut,United States,06010,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,status.operating
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2006,1464,2015,Jackson,New Jersey,United States,08527,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,status.operating
+3,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",Dinn/PTC-Schmeck,1985,1301,2015,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,status.operating
+4,The Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,1184,2015,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,status.operating
+5,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",GCII,2004,904,2015,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,status.operating
+6,The Beast,Kings Island,"Mason, Ohio",KECO,1979,740,2015,Mason,Ohio,United States,45040,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,status.operating
+7,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,722,2015,Erie,Pennsylvania,United States,16505,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,status.operating
+8,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,637,2015,Branson,Missouri,United States,65616,Wooden,Sit Down,110.0,50.0,,2.0,RMC,status.operating
+9,Gold Striker,California’s Great America,"Santa Clara, Calif.",GCII,2013,560,2015,Santa Clara,California,United States,95054,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,status.operating
+10,Lightning Racer,Hersheypark,"Hershey, Pa.",GCII,2000,421,2015,Hershey,Pennsylvania,United States,17033,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,status.operating
+1,Boulder Dash,Lake Compounce,"Bristol, Conn.",Custom Coasters,2000,1216,2016,Bristol,Connecticut,United States,06010,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,status.operating
+2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",Dinn-PTC/Schmeck,1985,1144,2016,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,status.operating
+3,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2006,1121,2016,Jackson,New Jersey,United States,08527,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,status.operating
+4,The Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,1028,2016,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,status.operating
+5,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,692,2016,Erie,Pennsylvania,United States,16505,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,status.operating
+6,The Beast,Kings Island,"Mason, Ohio",KECO,1979,670,2016,Mason,Ohio,United States,45040,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,status.operating
+7,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",Great Coasters Int.,2004,641,2016,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,status.operating
+8,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,611,2016,Branson,Missouri,United States,65616,Wooden,Sit Down,110.0,50.0,,2.0,RMC,status.operating
+9,Gold Striker,California’s Great America,"Santa Clara, Calif.",Great Coasters Int.,2013,525,2016,Santa Clara,California,United States,95054,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,status.operating
+10,Lightning Racer,Hersheypark,"Hershey, Pa.",Great Coasters Int.,2000,347,2016,Hershey,Pennsylvania,United States,17033,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,status.operating
+11,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",Rocky Mountain,2016,336,2016,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,status.operating
+12,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,292,2016,Gothenburg,Västra Götalands,Sweden,402 22,Wooden,Sit Down,90.0,36.0,1070.0,0.0,Intamin,status.operating
+13,Goliath,Six Flags Great America,"Gurnee, Ill.",Rocky Mountain,2014,267,2016,Gurnee,Illinois,United States,60031,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,status.operating
+14,Prowler,Worlds of Fun,"Kansas City, Mo.",Great Coasters Int.,2009,256,2016,Kansas City,Missouri,United States,64161,Wooden,Sit Down,82.0,31.0,937.0,0.0,GCI,status.operating
+15,The Raven,Holiday World,"Santa Claus, Ind.",Custom Coasters,1995,245,2016,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,status.operating
+16,The Legend,Holiday World,"Santa Claus, Ind.",Custom Coasters,2000,241,2016,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,status.operating
+17,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",Prior & Church/Looff,1924,233,2016,Santa Cruz,California,United States,95060,Steel,Sit Down,89.0,21.0,805.0,0.0,na,status.operating
+18,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,222,2016,Soltau,Lower Saxony,Germany,29614,Wooden,Sit Down,110.0,51.0,1500.0,0.0,Intamin,status.operating
+19,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",Custom Coasters,1998,213,2016,Muskegon,Michigan,United States,49445,Steel,Sit Down,92.0,37.0,1641.0,0.0,CCI,status.operating
+20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",PTC/Miller,1920,208,2016,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,72.0,21.0,650.0,0.0,ACE Coaster Classic,status.operating
+21,Thunderbolt,Kennywood,"West Mifflin, Pa.",Vettel/Miller,1968,206,2016,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,89.0,29.0,880.0,0.0,ACE Coaster Classic,status.operating
+22,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",Gravity Group,2015,179,2016,Ashbourne,Meath,Ireland,A84 EA02,Wooden,Sit Down,90.0,32.0,1094.0,0.0,Gravity Group,status.operating
+23,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,175,2016,Rust,Baden-Württemberg,Germany,77977,Wooden,Sit Down,100.0,35.0,1050.0,0.0,GCI,status.operating
+24,Troy,Toverland,"Sevenum, Netherlands",Great Coasters Int.,2007,174,2016,Sevenum,Limburg,Netherlands,5975,Wooden,Sit Down,87.0,32.0,1077.0,0.0,GCI,status.operating
+25,Comet,The Great Escape,"Lake George, N.Y.",PTC/Schmeck,1994,166,2016,Queensbury,New York,United States,12804,Wooden,Sit Down,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,status.operating
+25,El Toro,Freizeitpark Plohn,"Legendfeld, Germany",Great Coasters Int.,2009,166,2016,Reichenbach/Vogtland,Saxony,Germany,08485,Wooden,Sit Down,75.0,28.0,750.0,0.0,GCI,status.operating
+27,Cyclone,Coney Island,"Brooklyn, N.Y.",Keenan/Baker,1927,165,2016,Brooklyn,New York,United States,11224,Wooden,Sit Down,97.0,26.0,869.0,0.0,na,status.operating
+28,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain,2016,153,2016,Kolmården,Östergötlands,Sweden,618 92,Wooden,Sit Down,113.0,57.0,1300.0,3.0,RMC,status.operating
+29,GhostRider,Knott’s Berry Farm,"Buena Vista, Calif.",Custom Coasters,1998,141,2016,Buena Park,California,United States,90620,Wooden,Sit Down,90.0,36.0,1382.0,0.0,GCI,status.operating
+30,Playland Wooden Coaster,Playland,"Vancouver, B.C., Canada",Phare,1958,141,2016,Rye,New York,United States,10580,,,,,,,,
+31,The Boss,Six Flags St. Louis,"Eureka, Mo.",Custom Coasters,2000,140,2016,Eureka,Missouri,United States,63025,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,status.operating
+32,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England","Wright, Blackpool",1958,132,2016,Blackpool,England,United Kingdom,FY4 1EZ,Wooden,Sit Down,,,390.0,0.0,na,status.closed.definitely
+33,American Thunder,Six Flags St. Louis,"Eureka, Mo.",Great Coasters Int.,2009,129,2016,Eureka,Missouri,United States,63025,Wooden,Sit Down,77.0,25.0,827.0,0.0,GCI,status.operating
+34,White Lightning,Fun Spot America,"Orlando, Fla.",Great Coasters Int.,2013,128,2016,Orlando,Florida,United States,32819,Wooden,Sit Down,75.0,23.0,600.0,0.0,GCI,status.operating
+35,Megafobia,Oakwood Leisure Park,"Pembrokeshire, Wales",Custom Coasters,1996,122,2016,Pembroke,Wales,United Kingdom,SA67 8DE,Wooden,Sit Down,77.0,26.0,901.0,0.0,CCI,status.operating
+36,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",Gravity Group,1995,118,2016,Wisconsin Dells,Wisconsin,United States,53965,Hybrid,Sit Down,113.0,42.0,1441.0,0.0,Gravity Group,status.operating
+37,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",Custom Coasters,1998,117,2016,Bessemer,Alabama,United States,35022,Wooden,Sit Down,90.0,37.0,1067.0,0.0,CCI,status.operating
+38,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",Vettel,1938,116,2016,Conneaut Lake,Pennsylvania,United States,16316,Wooden,na,,,883.0,0.0,na,status.operating
+39,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",PTC/Allen,1976,116,2016,Eureka,Missouri,United States,63025,Wooden,Sit Down,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,status.operating
+40,Tremors,Silverwood,"Athol, Idaho",Custom Coasters,1999,115,2016,Athol,Idaho,United States,83801,Wooden,Sit Down,96.0,31.0,915.0,0.0,CCI,status.operating
+41,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",Knoebels,2013,110,2016,Elysburg,Pennsylvania,United States,17824,Wooden,Bobsleigh,39.0,15.0,396.0,0.0,Knoebels,status.operating
+42,Blue Streak,Cedar Point,"Sandusky, Ohio",PTC/Hoover,1964,103,2016,Sandusky,Ohio,United States,44870,Wooden,Sit Down,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,status.operating
+43,Racer,Kennywood,"West Mifflin, Pa.",PTC/Miller,1927,94,2016,West Mifflin,Pennsylvania,United States,15122,Wooden,Sit Down,,22.0,686.0,0.0,John Miller,status.operating
+44,T Express,Everland,"Yongin-si, South Korea",Intamin,2008,84,2016,Seoul,Seoul,South Korea,17023,Wooden,Sit Down,104.0,56.0,1641.0,0.0,Intamin,status.operating
+45,Twister,Gröna Lund,"Stockholm, Sweden",Gravity Group,2011,84,2016,Stockholm,Stockholms,Sweden,115 21,Wooden,Sit Down,61.0,15.0,480.0,0.0,Gravity Group,status.operating
+46,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",Gravity Group,2011,81,2016,Middlebury,Connecticut,United States,06762,Wooden,Sit Down,56.0,11.0,378.0,0.0,Gravity Group,status.operating
+47,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",Fetterman/Knoebels,1999,78,2016,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,status.operating
+48,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",Great Coasters Int.,2006,77,2016,Bowling Green,Kentucky,United States,42101,Wooden,Sit Down,77.0,27.0,862.0,0.0,GCI,status.operating
+49,Wood Coaster,Knight Valley,"Shenzhen, China",Great Coasters Int.,2011,76,2016,Shenzhen,Guangdong,China,518085,Wooden,Sit Down,99.0,45.0,1468.0,0.0,GCI,status.operating
+50,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",M&V/The Gravity Group,2007,73,2016,Kemah,Texas,United States,77565,Wooden,Sit Down,82.0,29.0,986.0,0.0,Gravity Group,status.operating
+1,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2009,1241,2017,Jackson,New Jersey,United States,08527,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,status.operating
+2,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",Dinn-PTC/Schmeck,1985,1212,2017,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,status.operating
+3,Boulder Dash,Lake Compounce,"Bristol, Conn.",Custom Coasters,2000,1171,2017,Bristol,Connecticut,United States,06010,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,status.operating
+4,Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,1113,2017,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,status.operating
+5,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",Rocky Mountain,2016,710,2017,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,status.operating
+6,Beast,Kings Island,"Mason, Ohio",KECO,1979,666,2017,Mason,Ohio,United States,45040,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,status.operating
+7,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,612,2017,Erie,Pennsylvania,United States,16505,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,status.operating
+8,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",Great Coasters Int.,2004,560,2017,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,status.operating
+9,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,541,2017,Branson,Missouri,United States,65616,Wooden,Sit Down,110.0,50.0,,2.0,RMC,status.operating
+10,Gold Striker,California’s Great America,"Santa Clara, Calif.",Great Coasters Int.,2013,489,2017,Santa Clara,California,United States,95054,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,status.operating
+11,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,2017,345,2017,Mason,Ohio,United States,45040,Wooden,Sit Down,85.0,33.0,995.0,0.0,GCI,status.operating
+12,Lightning Racer,Hersheypark,"Hershey, Pa.",Great Coasters Int.,2000,276,2017,Hershey,Pennsylvania,United States,17033,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,status.operating
+13,Goliath,Six Flags Great America,"Gurnee, Ill.",Rocky Mountain,2014,269,2017,Gurnee,Illinois,United States,60031,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,status.operating
+14,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas, United States",M&V/Gravity Group,2007,236,2017,Kemah,Texas,United States,77565,Wooden,Sit Down,82.0,29.0,986.0,0.0,Gravity Group,status.operating
+15,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,223,2017,Rust,Baden-Württemberg,Germany,77977,Wooden,Sit Down,100.0,35.0,1050.0,0.0,GCI,status.operating
+16,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,221,2017,Gothenburg,Västra Götalands,Sweden,402 22,Wooden,Sit Down,90.0,36.0,1070.0,0.0,Intamin,status.operating
+17,Thunderbolt,Kennywood,"West Mifflin, Pa.",Vettel/Miller,1968,220,2017,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,89.0,29.0,880.0,0.0,ACE Coaster Classic,status.operating
+18,GhostRider,Knott’s Berry Farm,"Buena Vista, Calif.",Custom Coasters,1998,219,2017,Buena Park,California,United States,90620,Wooden,Sit Down,90.0,36.0,1382.0,0.0,GCI,status.operating
+18,Troy,Toverland,"Sevenum, Netherlands",Great Coasters Int.,2007,219,2017,Sevenum,Limburg,Netherlands,5975,Wooden,Sit Down,87.0,32.0,1077.0,0.0,GCI,status.operating
+18,White Lightning,Fun Spot America,"Orlando, Fla.",Great Coasters Int.,2013,219,2017,Orlando,Florida,United States,32819,Wooden,Sit Down,75.0,23.0,600.0,0.0,GCI,status.operating
+21,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",Custom Coasters,1998,218,2017,Bessemer,Alabama,United States,35022,Wooden,Sit Down,90.0,37.0,1067.0,0.0,CCI,status.operating
+22,Cyclone,Coney Island,"Brooklyn, N.Y.",Keenan/Baker,1927,217,2017,Brooklyn,New York,United States,11224,Wooden,Sit Down,97.0,26.0,869.0,0.0,na,status.operating
+23,Raven,Holiday World,"Santa Claus, Ind.",Custom Coasters,1995,214,2017,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,status.operating
+24,Legend,Holiday World,"Santa Claus, Ind.",Custom Coasters,2000,198,2017,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,status.operating
+25,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",Custom Coasters,1998,197,2017,Muskegon,Michigan,United States,49445,Steel,Sit Down,92.0,37.0,1641.0,0.0,CCI,status.operating
+26,Jack Rabbit,Kennywood,"West Mifflin, Pa.",PTC/Miller,1920,188,2017,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,72.0,21.0,650.0,0.0,ACE Coaster Classic,status.operating
+27,Prowler,Worlds of Fun,"Kansas City, Mo.",Great Coasters Int.,2009,186,2017,Kansas City,Missouri,United States,64161,Wooden,Sit Down,82.0,31.0,937.0,0.0,GCI,status.operating
+28,Boss,Six Flags St. Louis,"Eureka, Mo.",Custom Coasters,2000,183,2017,Eureka,Missouri,United States,63025,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,status.operating
+29,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain,2016,177,2017,Kolmården,Östergötlands,Sweden,618 92,Wooden,Sit Down,113.0,57.0,1300.0,3.0,RMC,status.operating
+30,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",Gravity Group,2015,168,2017,Ashbourne,Meath,Ireland,A84 EA02,Wooden,Sit Down,90.0,32.0,1094.0,0.0,Gravity Group,status.operating
+31,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",Prior & Church/Looff,1924,167,2017,Santa Cruz,California,United States,95060,Steel,Sit Down,89.0,21.0,805.0,0.0,na,status.operating
+32,Comet,The Great Escape,"Lake George, N.Y.",PTC/Schmeck,1994,157,2017,Queensbury,New York,United States,12804,Wooden,Sit Down,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,status.operating
+33,Switchback,ZDT’s,"Seguin, Texas",Gravity Group,2015,139,2017,Seguin,Texas,United States,78155,Wooden,Sit Down,66.0,20.0,365.0,,Gravity Group,status.operating
+34,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,129,2017,Soltau,Lower Saxony,Germany,29614,Wooden,Sit Down,110.0,51.0,1500.0,0.0,Intamin,status.operating
+35,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",Fetterman/Knoebels,1999,119,2017,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,status.operating
+36,Wild Mouse,Blackpool Pleasure Beach,"Blackpool, England","Wright, Blackpool",1958,112,2017,Blackpool,England,United Kingdom,FY4 1EZ,Wooden,Sit Down,,,390.0,0.0,na,status.closed.definitely
+37,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",Vettel,1964,109,2017,Conneaut Lake,Pennsylvania,United States,16316,Wooden,na,,,883.0,0.0,na,status.operating
+38,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",Gravity Group,1995,107,2017,Wisconsin Dells,Wisconsin,United States,53965,Hybrid,Sit Down,113.0,42.0,1441.0,0.0,Gravity Group,status.operating
+39,Playland Wooden Coaster,Playland,"Vancouver, B.C., Canada",Phare,1958,98,2017,Rye,New York,United States,10580,,,,,,,,
+40,American Thunder,Six Flags St. Louis,"Eureka, Mo.",Great Coasters Int.,2009,96,2017,Eureka,Missouri,United States,63025,Wooden,Sit Down,77.0,25.0,827.0,0.0,GCI,status.operating
+41,El Toro,Freizeitpark Plohn,"Legendfeld, Germany",Great Coasters Int.,2006,92,2017,Reichenbach/Vogtland,Saxony,Germany,08485,Wooden,Sit Down,75.0,28.0,750.0,0.0,GCI,status.operating
+42,Blue Streak,Cedar Point,"Sandusky, Ohio",PTC/Hoover,1964,87,2017,Sandusky,Ohio,United States,44870,Wooden,Sit Down,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,status.operating
+43,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",PTC/Allen,1976,86,2017,Eureka,Missouri,United States,63025,Wooden,Sit Down,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,status.operating
+44,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",Knoebels,2013,84,2017,Elysburg,Pennsylvania,United States,17824,Wooden,Bobsleigh,39.0,15.0,396.0,0.0,Knoebels,status.operating
+45,Wooden Warrior,Quassy Amusement Park,"Middlebury, Conn.",Gravity Group,2011,82,2017,Middlebury,Connecticut,United States,06762,Wooden,Sit Down,56.0,11.0,378.0,0.0,Gravity Group,status.operating
+46,Grizzly,Kings Dominion,"Doswell, Va.",,1982,81,2017,Doswell,Virginia,United States,23047,Wooden,Sit Down,,27.0,960.0,0.0,na,status.operating
+47,Tremors,Silverwood,"Athol, Idaho",Custom Coasters,1999,80,2017,Athol,Idaho,United States,83801,Wooden,Sit Down,96.0,31.0,915.0,0.0,CCI,status.operating
+48,Grand National,Blackpool Pleasure Beach,"Blackpool, England",Paige,1935,75,2017,Blackpool,England,United Kingdom,FY4 1EZ,Steel,Sit Down,64.0,19.0,1006.0,0.0,Charles Paige,status.operating
+49,Kentucky Rumbler,Beech Bend,"Bowling Green, Ky.",Great Coasters Int.,2006,71,2017,Bowling Green,Kentucky,United States,42101,Wooden,Sit Down,77.0,27.0,862.0,0.0,GCI,status.operating
+50,Twister,Gröna Lund,"Stockholm, Sweden",Gravity Group,2011,66,2017,Stockholm,Stockholms,Sweden,115 21,Wooden,Sit Down,61.0,15.0,480.0,0.0,Gravity Group,status.operating
+1,Phoenix,Knoebels Amusement Resort,"Elysburg, Pa.",PTC/Schmeck-Dinn,1985,1330,2018,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,status.operating
+2,El Toro,Six Flags Great Adventure,"Jackson, N.J.",Intamin,2006,1197,2018,Jackson,New Jersey,United States,08527,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,status.operating
+3,Voyage,Holiday World,"Santa Claus, Ind.",Gravity Group,2006,1086,2018,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,status.operating
+4,Boulder Dash,Lake Compounce,"Bristol, Conn.",Custom Coasters,2000,982,2018,Bristol,Connecticut,United States,06010,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,status.operating
+5,Beast,Kings Island,"Mason, Ohio",KECO,1979,781,2018,Mason,Ohio,United States,45040,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,status.operating
+6,Lightning Rod,Dollywood,"Pigeon Forge, Tenn.",Rocky Mountain,2016,691,2018,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,status.operating
+7,Outlaw Run,Silver Dollar City,"Branson, Mo.",Rocky Mountain,2013,573,2018,Branson,Missouri,United States,65616,Wooden,Sit Down,110.0,50.0,,2.0,RMC,status.operating
+8,Ravine Flyer II,Waldameer,"Erie, Pa.",Gravity Group,2008,560,2018,Erie,Pennsylvania,United States,16505,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,status.operating
+9,Gold Striker,California’s Great America,"Santa Clara, Calif.",Great Coasters Int.,2013,497,2018,Santa Clara,California,United States,95054,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,status.operating
+10,Thunderhead,Dollywood,"Pigeon Forge, Tenn.",Great Coasters Int.,2004,477,2018,Pigeon Forge,Tennessee,United States,37863,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,status.operating
+11,Mystic Timbers,Kings Island,"Mason, Ohio",Great Coasters Int.,2017,465,2018,Mason,Ohio,United States,45040,Wooden,Sit Down,85.0,33.0,995.0,0.0,GCI,status.operating
+12,Lightning Racer,Hersheypark,"Hershey, Pa.",Great Coasters Int.,2000,329,2018,Hershey,Pennsylvania,United States,17033,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,status.operating
+13,GhostRider,Knott’s Berry Farm,"Buena Park, Calif.",Custom Coasters,1998,307,2018,Buena Park,California,United States,90620,Wooden,Sit Down,90.0,36.0,1382.0,0.0,GCI,status.operating
+14,Balder,Liseberg,"Gothenburg, Sweden",Intamin,2003,289,2018,Gothenburg,Västra Götalands,Sweden,402 22,Wooden,Sit Down,90.0,36.0,1070.0,0.0,Intamin,status.operating
+15,Thunderbolt,Kennywood,"West Mifflin, Pa.",Vettel/Miller,1968,260,2018,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,89.0,29.0,880.0,0.0,ACE Coaster Classic,status.operating
+16,Wodan,Europa-Park,"Rust, Germany",Great Coasters Int.,2012,236,2018,Rust,Baden-Württemberg,Germany,77977,Wooden,Sit Down,100.0,35.0,1050.0,0.0,GCI,status.operating
+17,Wildfire,Kolmården,"Norrköping, Sweden",Rocky Mountain,2016,232,2018,Kolmården,Östergötlands,Sweden,618 92,Wooden,Sit Down,113.0,57.0,1300.0,3.0,RMC,status.operating
+18,Raven,Holiday World,"Santa Claus, Ind.",Custom Coasters,1995,229,2018,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,status.operating
+19,Goliath,Six Flags Great America,"Gurnee, Ill.",Rocky Mountain,2014,215,2018,Gurnee,Illinois,United States,60031,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,status.operating
+20,Jack Rabbit,Kennywood,"West Mifflin, Pa.",Miller,1920,211,2018,West Mifflin,Pennsylvania,United States,15122,Steel,Sit Down,72.0,21.0,650.0,0.0,ACE Coaster Classic,status.operating
+21,Giant Dipper,Santa Cruz Beach Boardwalk,"Santa Cruz, Calif.",Prior & Church/Looff,1924,206,2018,Santa Cruz,California,United States,95060,Steel,Sit Down,89.0,21.0,805.0,0.0,na,status.operating
+21,Shivering Timbers,Michigan’s Adventure,"Muskegon, Mich.",Custom Coasters,1998,206,2018,Muskegon,Michigan,United States,49445,Steel,Sit Down,92.0,37.0,1641.0,0.0,CCI,status.operating
+23,Legend,Holiday World,"Santa Claus, Ind.",Custom Coasters,2000,201,2018,Santa Claus,Indiana,United States,47579,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,status.operating
+24,White Lightning,Fun Spot America,"Orlando, Fla.",Great Coasters Int.,2013,196,2018,Orlando,Florida,United States,32819,Wooden,Sit Down,75.0,23.0,600.0,0.0,GCI,status.operating
+25,Troy,Toverland,"Sevenum, Netherlands",Great Coasters Int.,2007,183,2018,Sevenum,Limburg,Netherlands,5975,Wooden,Sit Down,87.0,32.0,1077.0,0.0,GCI,status.operating
+26,Renegade,Valleyfair,"Shakopee, Minn.",Great Coasters Int.,2007,182,2018,Shakopee,Minnesota,United States,55379,Wooden,Sit Down,,32.0,950.0,0.0,GCI,status.operating
+27,Cú Chulainn,Tayto Park,"Ashbourne, Ireland",Gravity Group,2015,177,2018,Ashbourne,Meath,Ireland,A84 EA02,Wooden,Sit Down,90.0,32.0,1094.0,0.0,Gravity Group,status.operating
+28,Colossos,Heide Park,"Soltau, Germany",Intamin,2001,171,2018,Soltau,Lower Saxony,Germany,29614,Wooden,Sit Down,110.0,51.0,1500.0,0.0,Intamin,status.operating
+29,Cyclone,Coney Island,"Brooklyn, N.Y.",Keenan/Baker,1927,169,2018,Brooklyn,New York,United States,11224,Wooden,Sit Down,97.0,26.0,869.0,0.0,na,status.operating
+30,Prowler,Worlds of Fun,"Kansas City, Mo.",Great Coasters Int.,2009,165,2018,Kansas City,Missouri,United States,64161,Wooden,Sit Down,82.0,31.0,937.0,0.0,GCI,status.operating
+30,Rampage,Alabama Splash Adventure,"Bessemer, Ala.",Custom Coasters,1998,165,2018,Bessemer,Alabama,United States,35022,Wooden,Sit Down,90.0,37.0,1067.0,0.0,CCI,status.operating
+32,Comet,The Great Escape,"Lake George, N.Y.",PTC/Schmeck,1994,164,2018,Queensbury,New York,United States,12804,Wooden,Sit Down,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,status.operating
+33,Boardwalk Bullet,Kemah Boardwalk,"Kemah, Texas",M&V/Gravity Group,2007,157,2018,Kemah,Texas,United States,77565,Wooden,Sit Down,82.0,29.0,986.0,0.0,Gravity Group,status.operating
+34,Flying Turns,Knoebels Amusement Resort,"Elysburg, Pa.",Knoebels,2013,148,2018,Elysburg,Pennsylvania,United States,17824,Wooden,Bobsleigh,39.0,15.0,396.0,0.0,Knoebels,status.operating
+35,Rutschebanan,Tivoli Gardens,"Copenhagen, Denmark",L.A. Thompson,1914,135,2018,Copenhagen,Region Hovedstaden,Denmark,1630,Wooden,Sit Down,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,status.operating
+36,Switchback,ZDT’s,"Seguin, Texas",Gravity Group,2015,130,2018,Seguin,Texas,United States,78155,Wooden,Sit Down,66.0,20.0,365.0,,Gravity Group,status.operating
+37,Blue Streak,Conneaut Lake Park,"Conneaut Lake, Pa.",Vettel/NAD,1938,118,2018,Conneaut Lake,Pennsylvania,United States,16316,Wooden,na,,,883.0,0.0,na,status.operating
+38,American Thunder,Six Flags St. Louis,"Eureka, Mo.",Great Coasters Int.,2008,117,2018,Eureka,Missouri,United States,63025,Wooden,Sit Down,77.0,25.0,827.0,0.0,GCI,status.operating
+38,Screamin’ Eagle,Six Flags St. Louis,"Eureka, Mo.",Allen/PTC,1976,117,2018,Eureka,Missouri,United States,63025,Wooden,Sit Down,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,status.operating
+40,Grizzly,Kings Dominion,"Doswell, Va.",Summers-KECO,1982,115,2018,Doswell,Virginia,United States,23047,Wooden,Sit Down,,27.0,960.0,0.0,na,status.operating
+41,Blue Streak,Cedar Point,"Sandusky, Ohio",PTC/Hoover,1964,109,2018,Sandusky,Ohio,United States,44870,Wooden,Sit Down,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,status.operating
+42,Playland Wooden Coaster,PNE Playland,"Vancouver, B.C., Canada",Phare,1959,107,2018,Vancouver,British Columbia,Canada,V5K 5J1,,,,,,,,
+43,Boss,Six Flags St. Louis,"Eureka, Mo.",Custom Coasters,2000,106,2018,Eureka,Missouri,United States,63025,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,status.operating
+44,Wild One,Six Flags Great America,"Upper Marlboro, Md.",PTC/Miller/Dinn,1986,98,2018,Gurnee,Illinois,United States,60031,Steel,Sit Down,85.0,30.0,1219.0,0.0,John Miller,status.operating
+45,T Express,Everland,"Yonjin-si, South Korea",Intamin,2008,87,2018,Seoul,Seoul,South Korea,17023,Wooden,Sit Down,104.0,56.0,1641.0,0.0,Intamin,status.operating
+46,Megafobia,Oakwood Leisure Park,"Pembrookshire, Wales",Custom Coasters,1996,84,2018,Pembroke,Wales,United Kingdom,SA67 8DE,Wooden,Sit Down,77.0,26.0,901.0,0.0,CCI,status.operating
+47,Hades 360,Mt. Olympus Theme Park,"Wisconsin Dells, Wis.",Gravity Group,2005,80,2018,Wisconsin Dells,Wisconsin,United States,53965,Hybrid,Sit Down,113.0,42.0,1441.0,0.0,Gravity Group,status.operating
+48,Mine Blower,Fun Spot America,"Kissimmee, Fla.",Gravity Group,2017,79,2018,Orlando,Florida,United States,32819,Wooden,Sit Down,78.0,25.0,698.0,1.0,Gravity Group,status.operating
+49,Wooden Warrior,Quassy Amusement Park,"Meddlebury, Conn.",Gravity Group,2011,77,2018,Middlebury,Connecticut,United States,06762,Wooden,Sit Down,56.0,11.0,378.0,0.0,Gravity Group,status.operating
+50,Twister,Knoebels Amusement Resort,"Elysburg, Pa.",Fetterman/Knoebels,1999,75,2018,Elysburg,Pennsylvania,United States,17824,Wooden,Sit Down,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,status.operating

@@ -1,0 +1,194 @@
+Name,material_type,seating_type,speed,height,length,num_inversions,manufacturer,Park,status
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating
+American Thunder,Wooden,Sit Down,77.0,25.0,827.0,0.0,GCI,Six Flags St. Louis,status.operating
+Apollo’s Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating
+Balder,Wooden,Sit Down,90.0,36.0,1070.0,0.0,Intamin,Liseberg,status.operating
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating
+Beast,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,Kings Island,status.operating
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada’s Wonderland,status.operating
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating
+Blue Streak,Wooden,na,,,883.0,0.0,na,Conneaut Lake Park,status.operating
+Blue Streak,Wooden,Sit Down,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Cedar Point,status.operating
+Boardwalk Bullet,Wooden,Sit Down,82.0,29.0,986.0,0.0,Gravity Group,Kemah Boardwalk,status.operating
+Boss,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,Six Flags St. Louis,status.operating
+Boulder Dash,Wooden,Sit Down,97.0,35.0,1440.0,0.0,CCI,Lake Compounce,status.operating
+Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating
+Colossos,Wooden,Sit Down,110.0,51.0,1500.0,0.0,Intamin,Heide Park,status.operating
+Comet,Wooden,Sit Down,40.0,11.0,396.0,0.0,Philadelphia Toboggan Coaster,Waldameer,status.operating
+Comet,Steel,Sit Down,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Crystal Beach,status.closed.definitely
+Comet,Steel,Sit Down,,,,0.0,Wisdom Rides ,Sir Gooney’s Family Fun Center,status.operating
+Comet,Steel,Sit Down,,,,0.0,Wisdom Rides ,Planet Fun,status.closed.definitely
+Comet,Steel,Sit Down,81.0,26.0,1024.0,0.0,Philadelphia Toboggan Coaster,Hersheypark,status.operating
+Comet,Wooden,Sit Down,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,The Great Escape,status.operating
+Comet,Steel,Sit Down,64.0,24.0,,3.0,Vekoma,Walygator Parc,status.operating
+Cyclone,Wooden,Sit Down,,25.0,855.0,0.0,na,Lakeside,status.operating
+Cyclone,Wooden,Sit Down,,29.0,914.0,0.0,Harry G Traver,Crystal Beach,status.closed.definitely
+Cyclone,Wooden,Sit Down,97.0,26.0,869.0,0.0,na,Coney Island,status.operating
+Cyclone,Steel,Sit Down,65.0,18.0,822.0,0.0,Togo,Toshimaen,status.operating
+Cyclone,Steel,Sit Down,,,,0.0,SBF,Barry Island Pleasure Park,status.operating
+Cyclone,Steel,Sit Down,68.0,18.0,762.0,0.0,Charles Paige,Southport Pleasureland,status.closed.definitely
+Cyclone,Steel,Sit Down,46.0,,,0.0,Pinfari,Genting Theme Park,status.closed.definitely
+Cyclone,Steel,Sit Down,,,,0.0,Carl Miler,Wonderland Amusement Park,status.operating
+Cyclone,Wooden,Sit Down,72.0,32.0,1100.0,0.0,William J. Cobb,Six Flags New England,status.retracked
+Cyclone,Steel,Sit Down,,,,0.0,na,Grove Land,status.closed.definitely
+Cyclone,Steel,Sit Down,,,,0.0,Pinfari,Blackpool Pleasure Beach,status.closed.definitely
+Cú Chulainn,Wooden,Sit Down,90.0,32.0,1094.0,0.0,Gravity Group,Tayto Park,status.operating
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating
+El Toro,Wooden,Sit Down,113.0,55.0,1341.0,0.0,Intamin,Six Flags Great Adventure,status.operating
+El Toro,Wooden,Sit Down,75.0,28.0,750.0,0.0,GCI,Freizeitpark Plohn,status.operating
+Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney’s Animal Kingdom,status.operating
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating
+Flying Turns,Wooden,Bobsleigh,39.0,15.0,396.0,0.0,Knoebels,Knoebels Amusement Resort,status.operating
+Full Throttle,Steel,Sit Down,112.0,48.0,670.0,2.0,Premier Rides,Six Flags Magic Mountain,status.operating
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating
+GateKeeper,Steel,Wing,108.0,52.0,1269.0,6.0,B&M,Cedar Point,status.operating
+GhostRider,Wooden,Sit Down,90.0,36.0,1382.0,0.0,GCI,Knott’s Berry Farm,status.operating
+Giant Dipper,Wooden,Sit Down,89.0,22.0,793.0,0.0,na,Belmont Park,status.operating
+Giant Dipper,Steel,Sit Down,89.0,21.0,805.0,0.0,na,Santa Cruz Beach Boardwalk,status.operating
+Gold Striker,Wooden,Sit Down,87.0,33.0,975.0,0.0,GCI,California’s Great America,status.operating
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walibi Holland,status.operating
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating
+Grand National,Steel,Sit Down,64.0,19.0,1006.0,0.0,Charles Paige,Blackpool Pleasure Beach,status.operating
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating
+Grizzly,Steel,Sit Down,89.0,28.0,991.0,0.0,Kings Island,California’s Great America ,status.operating
+Grizzly,Wooden,Sit Down,,27.0,960.0,0.0,na,Kings Dominion,status.operating
+Hades 360,Hybrid,Sit Down,113.0,42.0,1441.0,0.0,Gravity Group,Mt. Olympus Theme Park,status.operating
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating
+Jack Rabbit,Steel,Sit Down,72.0,21.0,650.0,0.0,ACE Coaster Classic,Kennywood,status.operating
+Jack Rabbit,Steel,Sit Down,,16.0,396.0,0.0,Miler Coaster,Celebration City,status.closed.definitely
+Jack Rabbit,Steel,Sit Down,,,,0.0,na,Seabreeze,status.unknown
+Jetline,Steel,Sit Down,90.0,32.0,800.0,0.0,Schwarzkopf,Gröna Lund,status.operating
+Kentucky Rumbler,Wooden,Sit Down,77.0,27.0,862.0,0.0,GCI,Beech Bend,status.operating
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating
+Legend,Wooden,na,,19.0,,0.0,na,Arnolds Park,status.operating
+Legend,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,Holiday World,status.operating
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada’s Wonderland,status.operating
+Lightning Racer,Wooden,Sit Down,82.0,27.0,1036.0,0.0,GCI,Hersheypark,status.operating
+Lightning Rod,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,Dollywood,status.operating
+Lightning Run,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,Kentucky Kingdom,status.operating
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating
+Medusa Steel Coaster,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,Six Flags Mexico,status.operating
+Megafobia,Wooden,Sit Down,77.0,26.0,901.0,0.0,CCI,Oakwood Leisure Park,status.operating
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating
+Mine Blower,Wooden,Sit Down,78.0,25.0,698.0,1.0,Gravity Group,Fun Spot America,status.operating
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating
+Mystic Timbers,Wooden,Sit Down,85.0,33.0,995.0,0.0,GCI,Kings Island,status.operating
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating
+Olympia Looping,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,Weiner Prater,status.operating
+Outlaw Run,Wooden,Sit Down,110.0,50.0,,2.0,RMC,Silver Dollar City,status.operating
+Phantom’s Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating
+Phoenix,Wooden,Sit Down,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Knoebels Amusement Resort,status.operating
+Phoenix,Steel,Spinning,65.0,15.0,,0.0,Maurer,Adventureland,status.operating
+Prowler,Wooden,Sit Down,82.0,31.0,937.0,0.0,GCI,Worlds of Fun,status.operating
+Quimera,Steel,Sit Down,85.0,34.0,1050.0,3.0,Schwarzkopf,La Feria,status.operating
+Racer,Wooden,Sit Down,,22.0,686.0,0.0,John Miller,Kennywood,status.operating
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating
+Rampage,na,Sit Down,,,,,Zierer,Big Sheep,status.operating
+Rampage,Wooden,Sit Down,90.0,37.0,1067.0,0.0,CCI,Alabama Splash Adventure,status.operating
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating
+Raven,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,Holiday World,status.operating
+Ravine Flyer II,Hybrid,Sit Down,91.0,24.0,884.0,0.0,Gravity Group,Waldameer,status.operating
+Renegade,Wooden,Sit Down,,32.0,950.0,0.0,GCI,Valleyfair,status.operating
+Rutschebanan,Wooden,Sit Down,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Tivoli Gardens,status.operating
+Screamin’ Eagle,Wooden,Sit Down,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Six Flags St. Louis,status.operating
+Shambhala,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,PortAventura,status.operating
+Shivering Timbers,Steel,Sit Down,92.0,37.0,1641.0,0.0,CCI,Michigan’s Adventure,status.operating
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating
+Steel Vengeance,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,Cedar Point,status.operating
+Storm Chaser,Steel,Spinning,60.0,19.0,430.0,0.0,Mack,Paultons Park,status.announced
+Storm Chaser,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,Kentucky Kingdom,status.operating
+Superman: the Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating
+Superman: The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating
+Superman The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating
+Switchback,Wooden,Sit Down,66.0,20.0,365.0,,Gravity Group,ZDT’s,status.operating
+Switchback,na,Sit Down,,10.0,233.0,,I.E. Park,Gulliver’s Matlock Bath,status.operating
+T Express,Wooden,Sit Down,104.0,56.0,1641.0,0.0,Intamin,Everland,status.operating
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating
+The Beast,Wooden,Sit Down,104.0,34.0,2243.0,0.0,Charlie Dinn,Kings Island,status.operating
+The Boss,Wooden,Sit Down,106.0,46.0,1540.0,0.0,CCI,Six Flags St. Louis,status.operating
+The Legend,Wooden,Sit Down,93.0,35.0,1232.0,0.0,CCI,Holiday World,status.operating
+The Raven,Wooden,Sit Down,77.0,33.0,832.0,0.0,CCI,Holiday World,status.operating
+The Voyage,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,Holiday World,status.operating
+Thunderbird,Steel,Wing,100.0,43.0,925.0,4.0,B&M,Holiday World,status.operating
+Thunderbird,Wooden,Sit Down,75.0,27.0,850.0,0.0,GCI,PowerPark,status.operating
+Thunderbolt,na,Sit Down,,35.0,680.0,4.0,Zamperla,Luna Park,status.operating
+Thunderbolt,Wooden,Sit Down,,,,,John Miller,Luna Park,status.closed.definitely
+Thunderbolt,Steel,Sit Down,89.0,29.0,880.0,0.0,ACE Coaster Classic,Kennywood,status.operating
+Thunderbolt,Wooden,Sit Down,,21.0,873.0,0.0,"Drambour, Joseph",Six Flags New England,status.operating
+Thunderbolt,Steel,Sit Down,,,,0.0,na,Celebration City,status.closed.definitely
+Thunderbolt,Steel,Sit Down,87.0,31.0,1207.0,2.0,Meisho Amusement Machines,Dreamworld,status.closed.definitely
+Thunderbolt,Steel,Sit Down,,7.0,,0.0,Zierer,Grove Land,status.closed.definitely
+Thunderhead,Wooden,Sit Down,89.0,31.0,985.0,0.0,GCI,Dollywood,status.operating
+Time Traveler,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,Silver Dollar City,status.operating
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating
+Tremors,Wooden,Sit Down,96.0,31.0,915.0,0.0,CCI,Silverwood,status.operating
+Troy,Wooden,Sit Down,87.0,32.0,1077.0,0.0,GCI,Toverland,status.operating
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating
+Twisted Timbers,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,Kings Dominion,status.operating
+Twister,Steel,Spinning,,,465.0,0.0,Maurer,Habtoorland,status.operating
+Twister,Steel,Sit Down,47.0,13.0,420.0,0.0,Reverchon,Lightwater Valley,status.operating
+Twister,na,Inverted,75.0,32.0,788.0,4.0,Beijing Jiuhua,Quancheng Euro Park,status.operating
+Twister,Wooden,Sit Down,61.0,15.0,480.0,0.0,Gravity Group,Gröna Lund,status.operating
+Twister,Wooden,Sit Down,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Knoebels Amusement Resort,status.operating
+Twister,Steel,Spinning,,,,,SBF,Crealy Adventure Park,status.operating
+Verbolten,Steel,Sit Down,85.0,,864.0,0.0,Zierer,Busch Gardens Williamsburg,status.operating
+Voyage,Wooden,Sit Down,108.0,49.0,1963.0,0.0,Gravity Group,Holiday World,status.operating
+White Lightning,Wooden,Sit Down,75.0,23.0,600.0,0.0,GCI,Fun Spot America,status.operating
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating
+Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating
+Wild Mouse,Steel,Sit Down,45.0,15.0,370.0,0.0,Maurer,Flamingo Land Theme Park and Zoo,status.closed.definitely
+Wild Mouse,na,Sit Down,,,,,Maurer,Funtown Splashtown USA,status.operating
+Wild Mouse,Steel,Sit Down,,,,0.0,Senyo Kogyo,Kariya-shi Kotsu Jido Yuen,status.closed.definitely
+Wild Mouse,Wooden,Sit Down,,12.0,487.0,0.0,Hopkins,Aussie World,status.closed.definitely
+Wild Mouse,na,na,,,,0.0,na,Arnolds Park,status.construction
+Wild Mouse,Wooden,Sit Down,,,390.0,0.0,na,Blackpool Pleasure Beach,status.closed.definitely
+Wild Mouse,Steel,Sit Down,,14.0,370.0,0.0,Mack,Nagashima Spa Land,status.operating
+Wild Mouse,Wooden,Sit Down,,12.0,400.0,0.0,Hopkins,Luna Park Sydney,status.operating
+Wild Mouse,Steel,Sit Down,,,,0.0,na,Santa Cruz Beach Boardwalk,status.closed.definitely
+Wild Mouse,Steel,Sit Down,,,,0.0,Schiff,Fun Junction,status.closed.definitely
+Wild Mouse,Steel,Sit Down,,,,0.0,na,Funland Amusement Park,status.closed.definitely
+Wild Mouse,Steel,Sit Down,,,,0.0,na,Crystal Beach,status.closed.definitely
+Wild Mouse,Steel,Sit Down,,,,0.0,E&F Miler Industries,Casino Pier,status.closed.definitely
+Wild Mouse,na,Sit Down,47.0,13.0,420.0,,Zamperla,Fantasilandia,status.operating
+Wild Mouse,Steel,Spinning,,,,0.0,Reverchon,Barry Island Pleasure Park,status.operating
+Wild Mouse,Steel,Sit Down,45.0,15.0,370.0,0.0,Maurer,Lagoon,status.operating
+Wild Mouse,Steel,Sit Down,45.0,14.0,370.0,0.0,Mack,Hersheypark,status.operating
+Wild Mouse,Steel,Spinning,47.0,13.0,420.0,0.0,Reverchon,Plopsa Coo,status.closed.definitely
+Wild Mouse,Steel,Sit Down,45.0,14.0,370.0,0.0,Mack,Expoland,status.closed.definitely
+Wild Mouse,Steel,Sit Down,45.0,15.0,370.0,0.0,Maurer,Dorney Park,status.operating
+Wild Mouse,Steel,Sit Down,47.0,13.0,420.0,0.0,Zamperla,Beech Bend,status.operating
+Wild One,Steel,Sit Down,85.0,30.0,1219.0,0.0,John Miller,Six Flags Great America,status.operating
+Wildfire,Steel,Sit Down,106.0,37.0,937.0,5.0,B&M,Silver Dollar City,status.operating
+Wildfire,Wooden,Sit Down,113.0,57.0,1300.0,3.0,RMC,Kolmården,status.operating
+Wodan,Wooden,Sit Down,100.0,35.0,1050.0,0.0,GCI,Europa-Park,status.operating
+Wood Coaster,Wooden,Sit Down,99.0,45.0,1468.0,0.0,GCI,Knight Valley,status.operating
+Wooden Warrior,Wooden,Sit Down,56.0,11.0,378.0,0.0,Gravity Group,Quassy Amusement Park,status.operating
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating
